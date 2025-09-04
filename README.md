@@ -145,7 +145,7 @@ For each skill learned, I will develop at least one project demonstrating practi
 - [Snakemake Workflow Tutorials](https://snakemake.readthedocs.io/en/stable/tutorial/basics.html)  
 - [GATK Best Practices](https://gatk.broadinstitute.org)  
 - [Ensembl VEP Documentation](https://ensembl.org/info/docs/tools/vep)  
-- [Cytoscape Tutorials](https://cytoscape.org/tutorials.html)  
+- [ ] [Cytoscape Tutorials](https://cytoscape.org/tutorials.html)  
 - [Neo4j Graph Data Science](https://neo4j.com/graphacademy)  
 
 ---
