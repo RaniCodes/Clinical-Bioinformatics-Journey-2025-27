@@ -122,7 +122,8 @@ For each skill learned, I will develop at least one project demonstrating practi
 ## Learning Resources
 
 ### Programming & Bioinformatics Courses  
-- [ ] *Python Programming for Biologists* by Martin Jones  
+- [ ] *Python Programming for Biologists* by Martin Jones
+- [ ] Harvard free yt STAT115 course
 - Harvard CS50P Introduction to PYTHON (10 weeks)  
 - *Biology Meets Programming: Bioinformatics for Beginners* by UC San Diego (Coursera)
 - [ ] NASA's RNASeq ANALYSIS COURSE
