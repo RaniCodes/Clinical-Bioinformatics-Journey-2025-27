@@ -154,14 +154,14 @@ For each skill learned, I will develop at least one project demonstrating practi
 ## Daily Learning Log Template  
 
 ### September 2025  
-#### Week 1 (Sep 5-11)  
-- [ ] Sep 5: Git & GitHub basics, created learning tracker repo (2 hours)  
-- [ ] Sep 6: Python installation and "Hello World" script (2 hours) + Watch RNASeq ANALYSIS LECTURES YT.(5 HOURS) 
-- [ ] Sep 7: Python basics - variables, data types (2.5 hours)  
-- [ ] Sep 8: Python control flow (if/else, loops) (3 hours)  
-- [ ] Sep 9: Python functions and modules (2 hours)  
-- [ ] Sep 10: Linux installation and basic commands (2 hours)  
-- [ ] Sep 11: Bash scripting basics (2 hours)  
+#### Week 1 (Sep 8-14)  
+- [ ] Sep 8: Git & GitHub basics, created learning tracker repo (2 hours)  
+- [ ] Sep 9: Python installation and "Hello World" script (2 hours) + Watch RNASeq ANALYSIS LECTURES YT.(5 HOURS) 
+- [ ] Sep 10: Python basics - variables, data types (2.5 hours)  
+- [ ] Sep 11: Python control flow (if/else, loops) (3 hours)  
+- [ ] Sep 12: Python functions and modules (2 hours)  
+- [ ] Sep 13: Linux installation and basic commands (2 hours)  
+- [ ] Sep 14: Bash scripting basics (2 hours)  
 
 ---
 
@@ -174,8 +174,8 @@ For each skill learned, I will develop at least one project demonstrating practi
 
 ---
 
-**Started:** September 4, 2025  
+**Started:** September 7, 2025  
 **Target Completion:** May 2027  
-**Last Updated:** September 4, 2025  
+**Last Updated:** September 6, 2025  
 
 *This repository will be updated regularly to reflect my growth from a biology student to a clinical bioinformatics professional able to synthesize computational and biological knowledge in research and clinical workflows.*
