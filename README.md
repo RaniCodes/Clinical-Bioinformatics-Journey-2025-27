@@ -123,6 +123,7 @@ For each skill learned, I will develop at least one project demonstrating practi
 
 ### Programming & Bioinformatics Courses  
 - [ ] *Python Programming for Biologists* by Martin Jones
+- [ ] Intro to bioinformatics(clinical,etc) by basant K. tiwary(Pondicherry prof. who had worked under james watson)
 - [ ] Harvard free yt STAT115 course
 - Harvard CS50P Introduction to PYTHON (10 weeks)  
 - *Biology Meets Programming: Bioinformatics for Beginners* by UC San Diego (Coursera)
@@ -154,14 +155,14 @@ For each skill learned, I will develop at least one project demonstrating practi
 ## Daily Learning Log Template  
 
 ### September 2025  
-#### Week 1 (Sep 8-14)  
-- [ ] Sep 8: Git & GitHub basics, created learning tracker repo (2 hours)  
-- [ ] Sep 9: Python installation and "Hello World" script (2 hours) + Watch RNASeq ANALYSIS LECTURES YT.(5 HOURS) 
-- [ ] Sep 10: Python basics - variables, data types (2.5 hours)  
-- [ ] Sep 11: Python control flow (if/else, loops) (3 hours)  
-- [ ] Sep 12: Python functions and modules (2 hours)  
-- [ ] Sep 13: Linux installation and basic commands (2 hours)  
-- [ ] Sep 14: Bash scripting basics (2 hours)  
+#### Week 1 (Sep 15-21)  
+- [ ] Sep 15: Git & GitHub basics, created learning tracker repo (2 hours)  
+- [ ] Sep 16: Python installation and "Hello World" script (2 hours) + Watch RNASeq ANALYSIS LECTURES YT.(5 HOURS) 
+- [ ] Sep 17: Python basics - variables, data types (2.5 hours)  
+- [ ] Sep 18: Python control flow (if/else, loops) (3 hours)  
+- [ ] Sep 19: Python functions and modules (2 hours)  
+- [ ] Sep 20: Linux installation and basic commands (2 hours)  
+- [ ] Sep 21: Bash scripting basics (2 hours)  
 
 ---
 
@@ -174,8 +175,8 @@ For each skill learned, I will develop at least one project demonstrating practi
 
 ---
 
-**Started:** September 7, 2025  
+**Started:** September 15, 2025  
 **Target Completion:** May 2027  
-**Last Updated:** September 6, 2025  
+**Last Updated:** September 13, 2025  
 
 *This repository will be updated regularly to reflect my growth from a biology student to a clinical bioinformatics professional able to synthesize computational and biological knowledge in research and clinical workflows.*
