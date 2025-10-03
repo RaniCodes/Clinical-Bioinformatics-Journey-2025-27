@@ -156,13 +156,13 @@ For each skill learned, I will develop at least one project demonstrating practi
 
 ### October 2025  
 #### Week 1 (Oct 19-26)  
-- [ ] Sep 19: Git & GitHub basics, created learning tracker repo (2 hours)  
-- [ ] Sep 20: Python installation and "Hello World" script (2 hours) + Watch RNASeq ANALYSIS LECTURES YT.(5 HOURS) 
-- [ ] Sep 21: Python basics - variables, data types (2.5 hours)  
-- [ ] Sep 22: Python control flow (if/else, loops) (3 hours)  
-- [ ] Sep 23: Python functions and modules (2 hours)  
-- [ ] Sep 24: Linux installation and basic commands (2 hours)  
-- [ ] Sep 25: Bash scripting basics (2 hours)  
+- [ ] Oct 19: Git & GitHub basics, created learning tracker repo (2 hours)  
+- [ ] Oct 20: Python installation and "Hello World" script (2 hours) + Watch RNASeq ANALYSIS LECTURES YT.(5 HOURS) 
+- [ ] Oct 21: Python basics - variables, data types (2.5 hours)  
+- [ ] Oct 22: Python control flow (if/else, loops) (3 hours)  
+- [ ] Oct 23: Python functions and modules (2 hours)  
+- [ ] Oct 24: Linux installation and basic commands (2 hours)  
+- [ ] Oct 25: Bash scripting basics (2 hours)  
 
 ---
 
