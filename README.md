@@ -24,7 +24,7 @@ Focus: Programming fundamentals, Linux basics, Git/GitHub, basic bioinformatics 
 | Month | Focus Area                                                | Status      | Completion |
 |-------|----------------------------------------------------------|-------------|------------|
 | 1     | Git & GitHub Understanding                               | Not Started | 0%         |
-| 2     | Python Basics                                            | Planned     | 0%         |
+| 2     | Python Basics                                            | Planned     | 25%         |
 | 3     | Linux & Bash Basics                                      | Planned     | 0%         |
 | 4     | R Programming Fundamentals                               | Planned     | 0%         |
 | 5     | Bioinformatics Intro & RNA-seq Basics                    | Planned     | 0%         |
