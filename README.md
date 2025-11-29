@@ -23,12 +23,12 @@ Focus: Programming fundamentals, Linux basics, Git/GitHub, basic bioinformatics 
 
 | Month | Focus Area                                                | Status      | Completion |
 |-------|----------------------------------------------------------|-------------|------------|
-| 1     | Git & GitHub Understanding                               | Not Started | 0%         |
+| 1     | Git & GitHub Understanding                               | Not Started | 50%         |
 | 2     | Python Basics                                            | Planned     | 25%         |
-| 3     | Linux & Bash Basics                                      | Planned     | 0%         |
-| 4     | R Programming Fundamentals                               | Planned     | 0%         |
+| 3     | Linux & Bash Basics                                      | Planned     | 20%         |
+| 4     | R Programming Fundamentals                               | Planned     | 5%         |
 | 5     | Bioinformatics Intro & RNA-seq Basics                    | Planned     | 20%         |
-| 6     | Learning Important Bioinformatics Databases, Software & Open-Source Tools | Planned     | 30%         |
+| 6     | Learning Important Bioinformatics Databases, Software & Open-Source Tools | Planned     | 40%         |
 
 ### Phase 2: Core Bioinformatics Skills (Months 7-12)  
 Focus: RNA-seq, variant analysis, workflow basics
@@ -37,10 +37,10 @@ Focus: RNA-seq, variant analysis, workflow basics
 |-------|----------------------------------|----------|------------|----------------------------------------------------------------------------------|
 | 7     | RNA-seq Differential Expression (DESeq2) | Planned | 0%     | DESeq2, edgeR, STAR, Salmon                                                      |
 | 8     | Variant Calling Concepts (GATK)  | Planned  | 0%         | GATK, bcftools, vcftools                                                        |
-| 9     | Advanced Linux & Bash Scripting   | Planned  | 0%         | Bash/Shell scripting                                                            |
+| 9     | Advanced Linux & Bash Scripting   | Planned  | 5%         | Bash/Shell scripting                                                            |
 | 10    | Workflow Management (Nextflow, Snakemake) | Planned | 0%      | Nextflow, Snakemake, Docker, Singularity                                        |
 | 11    | Basic Clinical Variant Interpretation | Planned | 0%      | VEP, ANNOVAR, SnpEff; ClinVar, gnomAD, dbSNP                                   |
-| 12    | Project: RNA-seq Analysis Pipeline | Planned | 0%         | Integration of above tools for RNA-seq processing                               |
+| 12    | Project: RNA-seq Analysis Pipeline | Planned | 12%         | Integration of above tools for RNA-seq processing                               |
 
 ### Phase 3: Advanced Topics & Clinical Applications (Months 13-18)  
 Focus: Clinical variant interpretation, containerization, multi-omics
@@ -49,10 +49,10 @@ Focus: Clinical variant interpretation, containerization, multi-omics
 |-------|----------------------------------|----------|------------|---------------------------------------------------------------------------|
 | 13    | VCF Annotation & Interpretation  | Planned  | 0%         | VEP, ANNOVAR, SnpEff; ClinVar, gnomAD, dbSNP                           |
 | 14    | Docker/Singularity Containerization | Planned | 0%        | Docker, Singularity                                                     |
-| 15    | Multi-omics Integration Basics   | Planned  | 0%         | Cytoscape, Neo4j, Bioinformatics APIs (NCBI, Ensembl)                   |
+| 15    | Multi-omics Integration Basics   | Planned  | 2%         | Cytoscape, Neo4j, Bioinformatics APIs (NCBI, Ensembl)                   |
 | 16    | Clinical Reporting Pipelines      | Planned  | 0%         | Automated report generation using RMarkdown, LaTeX                      |
 | 17    | Project: Variant Annotation & Report | Planned | 0%        | Combination of clinical annotation and workflow automation              |
-| 18    | Scientific Communication Techniques| Planned | 0%         | Writing, presentations, documentation                                   |
+| 18    | Scientific Communication Techniques| Planned | 30%         | Writing, presentations, documentation                                   |
 
 ### Phase 4: Specialization & Career Preparation (Months 19-24)  
 Focus: Machine learning, cloud computing, portfolio readying
@@ -99,11 +99,11 @@ Focus: Machine learning, cloud computing, portfolio readying
 For each skill learned, I will develop at least one project demonstrating practical application and deepening understanding.
 
 ### Foundational Skills & Projects  
-- [ ] Git & GitHub — Project: Personal learning tracker repository  
+- [✅] Git & GitHub — Project: Personal learning tracker repository  
 - [ ] Python Programming — Project: Scripts for biological data parsing and analysis  
 - [ ] Linux & Bash — Project: Shell scripts for file management and data processing  
 - [ ] R Programming — Project: Data visualization dashboards, ggplot2 graphs  
-- [ ] RNA-seq Basics — Project: Exploratory data analysis and QC on public datasets  
+- [ ] RNA-seq Basics — Project: Exploratory data analysis and QC on public datasets--> currently working on this 
 
 ### Intermediate Skills & Projects  
 - [ ] RNA-seq Differential Expression (DESeq2) — Project: Pipeline applying DESeq2 on TCGA data  
@@ -127,10 +127,10 @@ For each skill learned, I will develop at least one project demonstrating practi
 - [ ] Harvard free yt STAT115 course
 - Harvard CS50P Introduction to PYTHON (10 weeks)  
 - *Biology Meets Programming: Bioinformatics for Beginners* by UC San Diego (Coursera)
-- [ ] NASA's RNASeq ANALYSIS COURSE
+- [ ] NASA's RNASeq ANALYSIS COURSE--(Will complete after 10th december 2025)
 - *Introduction to Bioinformatics and Computational Biology* by Harvard Lab (YouTube + GitHub)
 -  NASA's OPEN SOURCE COURSE
--  NASA's AI- ML COURSE
+-  NASA's AI- ML COURSE--In december 2025
 - *Practical Computing for Biologists* by Haddock and Dunn  
 - *Bioinformatics Data Skills* (O’Reilly) – Advanced level  
 
@@ -156,13 +156,13 @@ For each skill learned, I will develop at least one project demonstrating practi
 
 ### October 2025  
 #### Week 1 (Oct 19-26)  
-- [ ] Oct 19: Git & GitHub basics, [✔️]created learning tracker repo (2 hours)  
+- [✔️] Oct 19: Git & GitHub basics, [✔️]created learning tracker repo (2 hours)  
 - [✔️] Oct 20: Python installation and "Hello World" script (2 hours) + Watch RNASeq ANALYSIS 01 LECTURE YT. 
 - [✔️] Oct 21: Python basics - variables, data types (2.5 hours)  
 - [✔️] Oct 22: Python control flow (if/else, loops) (3 hours)  
 - [✔️] Oct 23: Python functions and modules (2 hours)  
-- [ ] Oct 24: Linux installation and basic commands (2 hours)  
-- [ ] Oct 25: Bash scripting basics (2 hours)  
+- [✔️] Oct 24: Linux installation and basic commands (2 hours)  
+- [✔️] Oct 25: Bash scripting basics (2 hours)  
 
 ---
 
@@ -177,6 +177,6 @@ For each skill learned, I will develop at least one project demonstrating practi
 
 **Starting:** October 19, 2025  
 **Target Completion:** May 2027  
-**Last Updated:** October 03, 2025  
+**Last Updated:** November 29, 2025  
 
 *This repository will be updated regularly to reflect my growth from a biology student to a clinical bioinformatics professional able to synthesize computational and biological knowledge in research and clinical workflows.*
