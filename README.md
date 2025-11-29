@@ -163,7 +163,9 @@ For each skill learned, I will develop at least one project demonstrating practi
 - [✔️] Oct 23: Python functions and modules (2 hours)  
 - [✔️] Oct 24: Linux installation and basic commands (2 hours)  
 - [✔️] Oct 25: Bash scripting basics (2 hours)  
-
+#### Week 2/ Month 2 (November 2025)
+-[] Learning NGS basics
+-[] Learning Bulk RNASeq Analysis using this tutorial:- (https://github.com/erilu/bulk-rnaseq-analysis)
 ---
 
 ## Contact and Collaboration
