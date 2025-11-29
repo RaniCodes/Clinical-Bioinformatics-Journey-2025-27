@@ -27,7 +27,7 @@ Focus: Programming fundamentals, Linux basics, Git/GitHub, basic bioinformatics 
 | 2     | Python Basics                                            | Planned     | 25%         |
 | 3     | Linux & Bash Basics                                      | Planned     | 20%         |
 | 4     | R Programming Fundamentals                               | Planned     | 5%         |
-| 5     | Bioinformatics Intro & RNA-seq Basics                    | Planned     | 20%         |
+| 5     | Bioinformatics Intro & RNA-seq Basics                    | Planned     | 50%         |
 | 6     | Learning Important Bioinformatics Databases, Software & Open-Source Tools | Planned     | 40%         |
 
 ### Phase 2: Core Bioinformatics Skills (Months 7-12)  
