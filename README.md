@@ -25,7 +25,7 @@ Focus: Programming fundamentals, Linux basics, Git/GitHub, basic bioinformatics 
 |-------|----------------------------------------------------------|-------------|------------|
 | 1     | Git & GitHub Understanding                               | Not Started | 50%         |
 | 2     | Python Basics                                            | Planned     | 25%         |
-| 3     | Linux & Bash Basics                                      | Planned     | 20%         |
+| 3     | Linux & Bash Basics                                      | Planned     | 60%         |
 | 4     | R Programming Fundamentals                               | Planned     | 5%         |
 | 5     | Bioinformatics Intro & RNA-seq Basics                    | Planned     | 50%         |
 | 6     | Learning Important Bioinformatics Databases, Software & Open-Source Tools | Planned     | 40%         |
@@ -35,12 +35,12 @@ Focus: RNA-seq, variant analysis, workflow basics
 
 | Month | Focus Area                        | Status   | Completion | Key Skills & Tools                                                               |
 |-------|----------------------------------|----------|------------|----------------------------------------------------------------------------------|
-| 7     | RNA-seq Differential Expression (DESeq2) | Planned | 0%     | DESeq2, edgeR, STAR, Salmon                                                      |
+| 7     | RNA-seq Differential Expression (DESeq2) | Planned | 25%     | DESeq2, edgeR, STAR, Salmon                                                      |
 | 8     | Variant Calling Concepts (GATK)  | Planned  | 0%         | GATK, bcftools, vcftools                                                        |
 | 9     | Advanced Linux & Bash Scripting   | Planned  | 5%         | Bash/Shell scripting                                                            |
 | 10    | Workflow Management (Nextflow, Snakemake) | Planned | 0%      | Nextflow, Snakemake, Docker, Singularity                                        |
 | 11    | Basic Clinical Variant Interpretation | Planned | 0%      | VEP, ANNOVAR, SnpEff; ClinVar, gnomAD, dbSNP                                   |
-| 12    | Project: RNA-seq Analysis Pipeline | Planned | 12%         | Integration of above tools for RNA-seq processing                               |
+| 12    | Project: RNA-seq Analysis Pipeline | Planned | 25%         | Integration of above tools for RNA-seq processing                               |
 
 ### Phase 3: Advanced Topics & Clinical Applications (Months 13-18)  
 Focus: Clinical variant interpretation, containerization, multi-omics
@@ -101,9 +101,9 @@ For each skill learned, I will develop at least one project demonstrating practi
 ### Foundational Skills & Projects  
 - [✅] Git & GitHub — Project: Personal learning tracker repository  
 - [ ] Python Programming — Project: Scripts for biological data parsing and analysis  
-- [ ] Linux & Bash — Project: Shell scripts for file management and data processing  
+- [✅] Linux & Bash — Project: Shell scripts for file management and data processing  
 - [ ] R Programming — Project: Data visualization dashboards, ggplot2 graphs  
-- [ ] RNA-seq Basics — Project: Exploratory data analysis and QC on public datasets--> currently working on this 
+- [✅] RNA-seq Basics — Project: Exploratory data analysis and QC on public datasets--> currently working on this 
 
 ### Intermediate Skills & Projects  
 - [ ] RNA-seq Differential Expression (DESeq2) — Project: Pipeline applying DESeq2 on TCGA data  
@@ -127,10 +127,10 @@ For each skill learned, I will develop at least one project demonstrating practi
 - [ ] Harvard free yt STAT115 course
 - Harvard CS50P Introduction to PYTHON (10 weeks)  
 - *Biology Meets Programming: Bioinformatics for Beginners* by UC San Diego (Coursera)
-- [ ] NASA's RNASeq ANALYSIS COURSE--(Will complete after 10th december 2025)
+- [ ] NASA's RNASeq ANALYSIS COURSE--(In progress)
 - *Introduction to Bioinformatics and Computational Biology* by Harvard Lab (YouTube + GitHub)
 -  NASA's OPEN SOURCE COURSE
--  NASA's AI- ML COURSE--In december 2025
+-  NASA's AI- ML COURSE--In January 2026
 - *Practical Computing for Biologists* by Haddock and Dunn  
 - *Bioinformatics Data Skills* (O’Reilly) – Advanced level  
 
@@ -152,20 +152,12 @@ For each skill learned, I will develop at least one project demonstrating practi
 
 ---
 
-## Daily Learning Log Template  
+## Monthly Learning Log Template  
 
-### October 2025  
-#### Week 1 (Oct 19-26)  
-- [✔️] Oct 19: Git & GitHub basics, [✔️]created learning tracker repo (2 hours)  
-- [✔️] Oct 20: Python installation and "Hello World" script (2 hours) + Watch RNASeq ANALYSIS 01 LECTURE YT. 
-- [✔️] Oct 21: Python basics - variables, data types (2.5 hours)  
-- [✔️] Oct 22: Python control flow (if/else, loops) (3 hours)  
-- [✔️] Oct 23: Python functions and modules (2 hours)  
-- [✔️] Oct 24: Linux installation and basic commands (2 hours)  
-- [✔️] Oct 25: Bash scripting basics (2 hours)  
-#### Week 2/ Month 2 (November 2025)
+### December 2025 
+
 -[] Learning NGS basics
--[] Learning Bulk RNASeq Analysis using this tutorial:- (https://github.com/erilu/bulk-rnaseq-analysis)
+-[✅] Learning Bulk RNASeq Analysis using this tutorial:- (https://github.com/erilu/bulk-rnaseq-analysis)
 ---
 
 ## Contact and Collaboration
