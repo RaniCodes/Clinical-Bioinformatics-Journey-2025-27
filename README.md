@@ -171,6 +171,6 @@ For each skill learned, I will develop at least one project demonstrating practi
 
 **Starting:** October 19, 2025  
 **Target Completion:** May 2027  
-**Last Updated:** November 29, 2025  
+**Last Updated:** December 30, 2025  
 
 *This repository will be updated regularly to reflect my growth from a biology student to a clinical bioinformatics professional able to synthesize computational and biological knowledge in research and clinical workflows.*
